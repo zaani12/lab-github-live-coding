@@ -10,11 +10,6 @@ gh auth login
 ```
 
 ```
-gh auth login
-
-```
-
-```
 gh repo clone owner/repo
 
 ```
